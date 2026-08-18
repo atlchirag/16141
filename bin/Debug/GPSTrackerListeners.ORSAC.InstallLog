@@ -1,0 +1,297 @@
+﻿Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty...
+Service ListenerOBD_Duty has been successfully installed.
+Creating EventLog source ListenerOBD_Duty in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty.
+Service ListenerOBD_Duty is being removed from the system...
+Service ListenerOBD_Duty was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Warning: The source ListenerOBD_Duty_login is not registered on the local machine.
+Service ListenerOBD_Duty_login is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerOBD_Duty_login...
+Service ListenerOBD_Duty_login has been successfully installed.
+Creating EventLog source ListenerOBD_Duty_login in log Application...
+Committing assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\ARVIND\Project\Listerner\Source Code\GPS(with Login Package\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerOBD_Duty_login.
+Service ListenerOBD_Duty_login is being removed from the system...
+Service ListenerOBD_Duty_login was successfully removed from the system.
+Attempt to stop service ListenerOBD_Duty_login.
+Installing assembly 'E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerAis_140...
+Service ListenerAis_140 has been successfully installed.
+Creating EventLog source ListenerAis_140 in log Application...
+Committing assembly 'E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = E:\Project\SVN\LISTNERS\Ais Listner\Source\GPSTrackerListeners(OBD)\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerAis_140.
+Service ListenerAis_140 is being removed from the system...
+Service ListenerAis_140 was successfully removed from the system.
+Attempt to stop service ListenerAis_140.
+Installing assembly 'D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerAis_140...
+Service ListenerAis_140 has been successfully installed.
+Creating EventLog source ListenerAis_140 in log Application...
+Committing assembly 'D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = D:\Abhishek Projects\SVN\Abhishek\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerAis_140.
+Service ListenerAis_140 is being removed from the system...
+Service ListenerAis_140 was successfully removed from the system.
+Attempt to stop service ListenerAis_140.
+Installing assembly 'F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerAis_140_12347...
+Service ListenerAis_140_12347 has been successfully installed.
+Creating EventLog source ListenerAis_140_12347 in log Application...
+Committing assembly 'F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = F:\SVN\Tauseef\Listeners_for_both_db_ctrls\GPSTrackerListeners.AIS\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerAis_140_12347.
+Service ListenerAis_140_12347 is being removed from the system...
+Service ListenerAis_140_12347 was successfully removed from the system.
+Attempt to stop service ListenerAis_140_12347.
+Installing assembly 'C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Installing service ListenerAis_140_16140_new...
+Service ListenerAis_140_16140_new has been successfully installed.
+Creating EventLog source ListenerAis_140_16140_new in log Application...
+Committing assembly 'C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Uninstalling assembly 'C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.InstallLog
+   assemblypath = C:\Users\user\Desktop\listeners\16140_ais\GPSTrackerListeners.AIS_16140\bin\Debug\GPSTrackerListeners.ORSAC.exe
+Removing EventLog source ListenerAis_140_16140_new.
+Service ListenerAis_140_16140_new is being removed from the system...
+Service ListenerAis_140_16140_new was successfully removed from the system.
+Attempt to stop service ListenerAis_140_16140_new.
