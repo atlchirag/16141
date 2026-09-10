@@ -32,7 +32,7 @@ namespace GPSTrackerListeners.ORSAC
         private static readonly Dictionary<string, bool> PanicActiveByServiceId = new Dictionary<string, bool>();
 
         public static readonly string connectionString = "Data Source={Public DB IP},15433;Initial Catalog=atltracking;User ID={UserID};Password={PW};Max Pool Size=32767;";
-      
+        
 
 
 
@@ -433,8 +433,8 @@ namespace GPSTrackerListeners.ORSAC
                     : msg;
 
                 // IMPORTANT: async write (same file path, same content)
-                //AsyncLogWriter.Enqueue(fullPath, line, isAppend);
-                File.AppendAllText(fullPath, line + Environment.NewLine);
+                AsyncLogWriter.Enqueue(fullPath, line, isAppend);
+                //File.AppendAllText(fullPath, line + Environment.NewLine);
             }
             catch
             {
