@@ -46,11 +46,11 @@ namespace GPSTrackerListeners.ORSAC
             //string[] data = a.Split('\n');
             //General.GetInitialValues();
 
-            var server = new ORSACServer();
-            var config = new ServerConfig { Port = 16141, MaxRequestLength = 40960000, MaxConnectionNumber = 20000 };
-            server.Setup(config);
-            server.Start();
-            Console.Read();
+            //var server = new ORSACServer();
+            //var config = new ServerConfig { Port = 16141, MaxRequestLength = 40960000, MaxConnectionNumber = 20000 };
+            //server.Setup(config);
+            //server.Start();
+            //Console.Read();
 
             //double dis = General.HaversineInKM(Convert.ToDouble("32.60265"), Convert.ToDouble("74.906616"), Convert.ToDouble("32.605965"), Convert.ToDouble("74.911392"));
 

@@ -98,6 +98,12 @@ namespace GPSTrackerListeners.ORSAC
 
         public List<DTCCode> lstDtcCode { get; set; }
 
+        /// <summary>
+        /// This session's own connection to the raw traffic mirror. Created lazily on the
+        /// first inbound packet and closed when the session closes. Never affects the
+        /// session's normal processing.
+        /// </summary>
+        internal RawDataMirror RawMirror { get; set; }
 
 
         protected override void OnSessionStarted()

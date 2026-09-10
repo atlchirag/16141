@@ -43,7 +43,57 @@ namespace GPSTrackerListeners.ORSAC
 
             this.NewRequestReceived += async (session, requestInfo) => await server_NewRequestReceived(session, requestInfo);
 
+            // Tap the raw inbound bytes before the receive filter runs, so a byte-for-byte
+            // copy of what the device sent is relayed to the mirror endpoint. The handler
+            // always returns true, so normal processing continues exactly as before.
+            if (RawMirrorConfig.Enabled)
+                ((IRawDataProcessor<CustomSession>)this).RawDataReceived += MirrorRawData;
 
+        }
+
+        /// <summary>
+        /// Copies every inbound packet to this session's mirror connection.
+        /// Returns true unconditionally: the packet is then processed by the listener
+        /// exactly as it was before the mirror existed.
+        /// </summary>
+        private bool MirrorRawData(CustomSession session, byte[] buffer, int offset, int length)
+        {
+            try
+            {
+                if (session != null)
+                {
+                    RawDataMirror mirror = session.RawMirror;
+
+                    if (mirror == null)
+                    {
+                        mirror = new RawDataMirror(Convert.ToString(session.RemoteEndPoint));
+                        session.RawMirror = mirror;
+                    }
+
+                    mirror.Enqueue(buffer, offset, length);
+                }
+            }
+            catch
+            {
+                // Mirroring must never interfere with the listener.
+            }
+
+            return true;
+        }
+
+        protected override void OnSessionClosed(CustomSession session, CloseReason reason)
+        {
+            try
+            {
+                if (session != null && session.RawMirror != null)
+                {
+                    session.RawMirror.Close();
+                    session.RawMirror = null;
+                }
+            }
+            catch { }
+
+            base.OnSessionClosed(session, reason);
         }
 
         protected override bool Setup(IRootConfig rootConfig, IServerConfig config)
